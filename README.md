@@ -55,7 +55,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
 ## Authors
-  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
+  - [Always0ne](https://github.com/Always0ne) - **Daniel Seo** - <ygseo@cloocus.com>
 
 See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
 who participated in this project.
@@ -69,9 +69,9 @@ who participated in this project.
 
 ## Using Technology Stacks
 
-| Python3.8 | Flask |  Bcrypt   |  JWT(JSON Web Tokens)   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+| Python3.8 |  Flask   | Miniconda | JWT(JSON Web Tokens) |
+|:---------:|:--------:|:---------:|:--------------------:|
+|   ![python]    | ![flask] | ![conda]  |        ![jwt]        |
 
 <br>
 
@@ -82,8 +82,7 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
 <!-- Stack Icon Refernces -->
 
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
-```
+[python]: /home/ygseo/Projects/api/Authentication_Flask_0.1/images/Python_3.8.svg
+[flask]: /home/ygseo/Projects/api/Authentication_Flask_0.1/images/Flask_logo.svg
+[conda]: /home/ygseo/Projects/api/Authentication_Flask_0.1/images/Conda.svg
+[jwt]: /home/ygseo/Projects/api/Authentication_Flask_0.1/images/jwt.svg
