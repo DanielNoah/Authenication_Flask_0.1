@@ -76,13 +76,9 @@ who participated in this project.
 <br>
 
 
-## 라이센스
-
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
 <!-- Stack Icon Refernces -->
 
-[python]: /home/ygseo/Projects/api/Authentication_Flask_0.1/images/Python_3.8.svg
-[flask]: /home/ygseo/Projects/api/Authentication_Flask_0.1/images/Flask_logo.svg
-[conda]: /home/ygseo/Projects/api/Authentication_Flask_0.1/images/Conda.svg
-[jwt]: /home/ygseo/Projects/api/Authentication_Flask_0.1/images/jwt.svg
+[python]: /images/Python_3.8.svg
+[flask]: /images/Flask_logo.svg
+[conda]: /images/Conda.svg
+[jwt]: /images/jwt.svg
