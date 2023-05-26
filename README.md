@@ -63,9 +63,27 @@ who participated in this project.
 ## Used or Referenced Projects
  - [referenced Project](project link) - **LICENSE** - little-bit introduce
 -->
+ 		
+
+<br>
 
 ## Using Technology Stacks
-Python3.8	 Flask	Bcrypt	JWT(JSON Web Tokens)
+
+| Python3.8 | Flask |  Bcrypt   |  JWT(JSON Web Tokens)   |
+| :--------: | :--------: | :------: | :-----: |
+|   ![js]    |   ![ts]    | ![react] | ![node] |
+
+<br>
 
 
+## 라이센스
+
+MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
+
+<!-- Stack Icon Refernces -->
+
+[js]: /images/stack/javascript.svg
+[ts]: /images/stack/typescript.svg
+[react]: /images/stack/react.svg
+[node]: /images/stack/node.svg
 ```
