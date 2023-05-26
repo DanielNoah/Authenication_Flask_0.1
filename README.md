@@ -11,7 +11,7 @@
 -->
 ## About RepositoryTemplate
 <!--Wirte one paragraph of project description -->  
-This project's purpose is to create a make Repository with a collection of default settings  
+This project's purpose is to create a authentication feature on Flask framework using Bcrypt, JWT(JSON Web Tokens).
 
 ## Overview
 <!-- Write Overview about this project -->
